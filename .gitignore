@@ -1,0 +1,4 @@
+node_modules/
+uploads/
+unico.db
+npm-debug.log*
